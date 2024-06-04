@@ -1,6 +1,6 @@
 import{ Slot } from 'expo-router'
 
-const Layout = (): JSX.IntrinsicElements => {
+const Layout = (): JSX.Element => {
     return <Slot />
 }
 
